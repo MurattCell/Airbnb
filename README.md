@@ -53,7 +53,21 @@ Based on the analysis, it is recommended to implement **dynamic pricing strategi
 ### Gelir Analizi ve Trend Grafiği / Revenue Analysis & Trend Chart
 <img width="997" height="595" alt="Financial Performance" src="https://github.com/user-attachments/assets/3bfe0c46-a9eb-4821-8447-4e21cf0cf36b" />
 
+## 📂 Veri Seti ve Değişkenler (Data Dictionary)
+Analizde kullanılan `airbnb_cleaned_data.csv` dosyasındaki temel değişkenler:
 
+| Değişken İsmi | Açıklama |
+| :--- | :--- |
+| `date` | Verinin ait olduğu tarih |
+| `price` | Gecelik konaklama fiyatı (EUR) |
+| `is_occupied` | Doluluk durumu (1: Dolu, 0: Boş) |
+| `estimated_revenue` | O gün elde edilen tahmini gelir |
+| `day_category` | Günün kategorisi (Hafta İçi / Hafta Sonu) |
+| `price_segment` | Fiyatlandırma segmenti (Ekonomik, Standart, Lüks) |
+| `room_type` | Konaklama tipi (Entire home, Private room vs.) |
+| `host_response_time` | Ev sahibinin ortalama yanıt süresi |
+| `review_scores_value` | Müşteri memnuniyet puanı (5 üzerinden) |
+| `listing_id` | İlanın benzersiz kimlik numarası |
 
 
 ---
