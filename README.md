@@ -10,7 +10,7 @@ Proje sonunda, karmaşık veri setleri **Looker Studio** kullanılarak etkileşi
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 * **Veri Görselleştirme:** Google Looker Studio
-* **Veri İşleme & Temizleme:** Google Sheets / Excel / Sql
+* **Veri İşleme & Temizleme:** Google Sheets / Sql
 * **Veri Kaynağı:** Airbnb Dataset
 
 ## 📊 Öne Çıkan Analizler & Bulgular
