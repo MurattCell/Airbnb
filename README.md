@@ -10,7 +10,7 @@ Proje sonunda, karmaşık veri setleri **Looker Studio** kullanılarak etkileşi
 
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 * **Veri Görselleştirme:** Google Looker Studio
-* **Veri İşleme & Temizleme:** Google Sheets / Excel (veya kullandıysan SQL/Python)
+* **Veri İşleme & Temizleme:** Google Sheets / Excel / Sql
 * **Veri Kaynağı:** Airbnb Dataset
 
 ## 📊 Öne Çıkan Analizler & Bulgular
@@ -32,7 +32,7 @@ The complex dataset was transformed into an interactive and easy-to-understand d
 
 ## 🛠️ Tools & Technologies
 * **Data Visualization:** Google Looker Studio
-* **Data Processing:** Google Sheets / Excel
+* **Data Processing:** Google Sheets / Excel / Sql
 * **Data Source:** Airbnb Dataset
 
 ## 📊 Key Insights & Findings
